@@ -1,0 +1,2 @@
+--Check the Discord if you use this.
+game:GetService("Players").LocalPlayer:Kick('Under Maintenance.')
